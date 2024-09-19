@@ -37,3 +37,5 @@ amount_of_ducks = size_of_reservoir_sqin/SIZE_OF_DUCK_SQIN
 # Printing the answer to the user
 print("Assuming the size of the duck is roughly 75 square inches, a " + str(size_of_reservoir_sqft) + \
       " square foot reservoir can fit about " + str(amount_of_ducks) + " rubber ducks.")
+
+input("Press any key to exit...")
